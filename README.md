@@ -1,11 +1,11 @@
 # Hello, I'm Facundo Ezequiel Patiño 👋
 
 ## About Me
-I'm a passionate full stack web developer with experience in web development projects. I love exploring new technologies and learning constantly.
+I'm a passionate about data and programming. I love developing efficient solutions, exploring new technologies, and applying my knowledge to solve complex problems. My main focus is on Data Analictics and Data Science.
 
 ## My Skills
-- Programming Languages: Python with POO
-- Frameworks: Flask
+- Programming Languages: Python
+- Frameworks: Pandas, Numpy, Matplotlib, Seaborn, Skitlearn
 - Databases: MySQL
 - Version Control Tools: Git, GitHub
 
