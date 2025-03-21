@@ -27,7 +27,16 @@ MySQL
 
 [<img src="https://github.com/user-attachments/assets/157cc565-3bfb-44dc-aebb-aafdd5c874ff" alt="MYSQL" width="200">](https://www.mysql.com/)
 
-- Version Control Tools: Git, GitHub
+- ### _Version Control Tools_
+
+GitHub, Git
+
+[<img src="https://github.com/user-attachments/assets/a4eb4cca-d6e8-4aac-a7b3-fdf19eebaa08" alt="GitHub" width="200">](https://github.com/)
+[<img src="https://github.com/user-attachments/assets/ee199807-1666-40d0-82c3-2159413f9e69" alt="Git" width="180">](https://git-scm.com/)
+
+
+
+
 
 ## My Featured Projects
 1. [BancoBD](https://github.com/facuezequielpat/BANCOBDD): In this project hice un CRUD with PYTHON joined to a data base in MySQL 
