@@ -38,9 +38,9 @@ GitHub, Git
 
 
 
-## My Featured Projects
+<!--## My Featured Projects
 1. [BancoBD](https://github.com/facuezequielpat/BANCOBDD): In this project hice un CRUD with PYTHON joined to a data base in MySQL 
-2. [Banco](https://github.com/facuezequielpat/BANCO): In this project hice un CRUD only with PYTHON
+2. [Banco](https://github.com/facuezequielpat/BANCO): In this project hice un CRUD only with PYTHON-->
 
 
 ## Collaboration
